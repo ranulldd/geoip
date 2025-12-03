@@ -1,4 +1,4 @@
-module geoip
+module github.com/ranulldd/geoip
 
 go 1.25.4
 
